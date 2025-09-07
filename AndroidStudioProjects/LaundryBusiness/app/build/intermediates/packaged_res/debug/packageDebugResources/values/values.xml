@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#1565C0</color>
+    <color name="neutral">#F5F5F5</color>
+    <color name="primary">#1E88E5</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Laundry Business</string>
+    <string name="email">Email</string>
+    <string name="fullname">Fullname</string>
+    <string name="login">Log In</string>
+    <string name="loginhere">Log In Here</string>
+    <string name="password">Password</string>
+    <string name="signuphere">Create a new account!</string>
+    <string name="username">Username</string>
+    <style name="Base.Theme.LaundryBusiness" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.LaundryBusiness" parent="Base.Theme.LaundryBusiness"/>
+</resources>
